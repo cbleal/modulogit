@@ -1,0 +1,1 @@
+Arquivo para ser utilizado como exemplo de utilização do GIT
